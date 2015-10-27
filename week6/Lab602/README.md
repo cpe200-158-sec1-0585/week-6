@@ -6,4 +6,8 @@ from the provided C# program.
 ## Submission: a written report which contains
 
 1. A class diagram of the original source code
+![570610585](http://i.imgur.com/bapWRFR.jpg)
 2. Detail explaination about the identified pattern and all the parcipants
+ans : There are abstract factory (Document class), concrete factory(Resume and report classes), abstract product(Page
+class) and product(SkillPage, EducationPage, ExperiencePage, IntroductionPage, ResultsPage, ConclusionPage,
+SummaryPage and BibliographyPage classes).
